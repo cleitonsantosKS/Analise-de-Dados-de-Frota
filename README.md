@@ -51,7 +51,7 @@ O script de relatório: relatorio_master.py
 
 O script de gráficos: gerar_graficos_master.py
 
-Passo 5: Executar as Análises
+### Passo 5: Executar as Análises
 Com os ficheiros na pasta e o PowerShell aberto na mesma, basta executar os comandos abaixo sempre que quiser gerar a análise do dia.
 
 Para gerar o Relatório Master (TXT):
@@ -65,7 +65,7 @@ Para gerar o Dashboard de Gráficos (PNGs):
 python gerar_graficos_master.py
 ```
 
-###Resultados Esperados
+### Resultados Esperados
 
 Após a execução, a pasta será automaticamente preenchida com os relatórios gerados com a data e hora da extração, prontos para serem enviados por e-mail ou anexados a apresentações de fim de turno.
 
