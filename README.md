@@ -35,7 +35,7 @@ Navegue até à pasta recém-criada:
 cd "$env:USERPROFILE\Documents\Analise_de_Dados_Frota"
 ```
 ```
-git clone [https://github.com/cleitonsantosKS/Analise-de-Dados-de-Frota.git](https://github.com/cleitonsantosKS/Analise-de-Dados-de-Frota.git)
+git clone https://github.com/cleitonsantosKS/Analise-de-Dados-de-Frota.git
 
 ```
 
