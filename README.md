@@ -20,6 +20,7 @@ Cole o comando abaixo e prima Enter:
 
 ```powershell
 winget install -e --id Python.Python.3.11
+winget install -e --id Git.Git
 ```
 
 ### Passo 2: Criar a pasta de Trabalho em "Documentos"
@@ -32,6 +33,9 @@ New-Item -Path "$env:USERPROFILE\Documents\Analise_de_Dados_Frota" -ItemType Dir
 Navegue até à pasta recém-criada:
 ```powershell
 cd "$env:USERPROFILE\Documents\Analise_de_Dados_Frota"
+
+git clone [https://github.com/cleitonsantosKS/Analise-de-Dados-de-Frota.git](https://github.com/cleitonsantosKS/Analise-de-Dados-de-Frota.git)
+
 ```
 
 ### Passo 3: Instalar as Dependências (Bibliotecas)
