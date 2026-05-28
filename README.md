@@ -20,6 +20,8 @@ Cole o comando abaixo e prima Enter:
 
 ```powershell
 winget install -e --id Python.Python.3.11
+```
+```
 winget install -e --id Git.Git
 ```
 
